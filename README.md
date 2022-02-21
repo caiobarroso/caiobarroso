@@ -5,9 +5,7 @@
 
 - Estudante de *Analise e desenvolvimento de sistemas* pela Universidade de Fortaleza.
 - Estudando o desenvolvimento com React e React Native <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="15px">.
-- Almejo me tornar  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e 
-ficar cada vez mais proximo se ser um Pentester profissional!
-- .
+- Almejo me tornar um ótimo programador <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e, com tal feito, ter expertize suficiente para publicar própria aplicação de maneira global.
 
 ---
 
