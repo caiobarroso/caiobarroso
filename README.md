@@ -43,14 +43,14 @@ ficar cada vez mais proximo se ser um Pentester profissional!
 ### 🤝🏻 Fale comigo! 
 
 <div align="left">
-   <a href="https://github.com/caiobarroso">
+   <a href="https://github.com/caiobarroso" target="_blank">
     <img 
       alt="GitHub" 
       title="caiobarroso"
       src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
     />
    </a>
-   <a href="https://www.linkedin.com/in/caio-barroso-de-sousa-452aa8197/">
+   <a href="https://www.linkedin.com/in/caio-barroso-de-sousa-452aa8197/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Caio Barroso"
@@ -58,7 +58,7 @@ ficar cada vez mais proximo se ser um Pentester profissional!
     />
          
    </a>
-      <a href="https://www.instagram.com/caiobarrososousa/">
+      <a href="https://www.instagram.com/caiobarrososousa/" target="_blank">
     <img 
       alt="Instagram" 
       title="Caio Barroso"
