@@ -5,10 +5,9 @@
 
 - Estudante de *Analise e desenvolvimento de sistemas* pela Universidade de Fortaleza.
 - Estudando o desenvolvimento com React e React Native <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="15px">.
-- Metas para 2022: Ser Fullstack em Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e 
+- Almejo me tornar  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="15px"> e 
 ficar cada vez mais proximo se ser um Pentester profissional!
-- A maioria do meu aprendizado replicando projetos interessantes no youtube.
-- As vezes gosto de procurar por falhas XSS no meu tempo livre... 🤫
+- .
 
 ---
 
