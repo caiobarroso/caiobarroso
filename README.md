@@ -16,11 +16,11 @@ ficar cada vez mais proximo se ser um Pentester profissional!
 
 ![React](https://img.shields.io/badge/React.js-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-%231572B6.svg?&style=for-the-badge&logo=react&logoColor)
-![Firebase](https://img.shields.io/badge/firebase-yellow.svg?&style=for-the-badge&logo=firebase&logoColor=darkyellow)
 ![Node.js](https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23323330.svg?&style=for-the-badge&logo=express&logoColor=white)
 
 ---
@@ -57,6 +57,15 @@ ficar cada vez mais proximo se ser um Pentester profissional!
       title="Caio Barroso"
       src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     />
+         
+   </a>
+      <a href="https://www.instagram.com/caiobarrososousa/">
+    <img 
+      alt="Instagram" 
+      title="Caio Barroso"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+         
    </a>
 </div>
 
