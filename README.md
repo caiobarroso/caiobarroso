@@ -55,7 +55,7 @@
     />
          
    </a>
-      <a href="https://www.instagram.com/caiobarrososousa/">
+      <a href="https://www.instagram.com/_caiobarroso/">
     <img 
       alt="Instagram" 
       title="Caio Barroso"
