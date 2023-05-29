@@ -47,7 +47,7 @@
       src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"
     />
    </a>
-   <a href="https://www.linkedin.com/in/caio-barroso-de-sousa-452aa8197/">
+   <a href="https://www.linkedin.com/in/caio-barroso-452aa8197/">
     <img 
       alt="LinkedIn" 
       title="Caio Barroso"
