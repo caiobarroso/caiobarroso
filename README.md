@@ -3,21 +3,13 @@
 
 ### Um pouco sobre mim...
 
-- Graduado em *Analise e desenvolvimento de sistemas* pela Universidade de Fortaleza.
-- Expertise em React & React-Native <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="15px">.
+As a seasoned Software Developer with extensive experience in Typescript, Node.js, React/Next.js, and React Native, I bring a proven ability to enhance application performance, drive revenue, and improve user experiences. My work on internal projects has impacted over 15,000 daily users, streamlining operations and boosting efficiency.
+
+I have played a key role in developing a CRM application for a major global footwear distributor, resulting in millions of dollars in additional annual revenue for the client. My experience includes participating in AI-driven projects, refactoring backend systems, and creating innovative frontend features, consistently delivering high-impact results.
+
+I am passionate about leveraging my technical skills to drive results and am always seeking new opportunities to make a difference.
 
 ---
-
-### 📚 Minhas tecnologias:
-
-![React](https://img.shields.io/badge/React.js-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/react%20native-%231572B6.svg?&style=for-the-badge&logo=react&logoColor)
-![Node.js](https://img.shields.io/badge/node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23323330.svg?&style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
