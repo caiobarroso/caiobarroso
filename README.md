@@ -11,8 +11,6 @@ I am passionate about leveraging my technical skills to drive results and am alw
 
 ---
 
----
-
 ### ⚙️ GitHub Analytics
 
 <div align="left"> 
