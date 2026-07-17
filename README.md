@@ -2,8 +2,6 @@
 
 Software Engineer focused on building scalable products, solving real-world problems, and delivering impact.
 
----
-
 ## About me
 
 I’m a Brazilian Software Engineer with strong experience across web and mobile applications.
@@ -14,8 +12,6 @@ Throughout my career, I’ve worked on products used by thousands of users daily
 
 What sets me apart is not just coding — I think in terms of product, scalability, and execution. I take ownership, move fast, and focus on delivering what actually matters.
 
----
-
 ## What I do best
 
 - Build fullstack applications from scratch to production
@@ -25,8 +21,6 @@ What sets me apart is not just coding — I think in terms of product, scalabili
 - Integrate APIs and automate workflows
 - Turn ideas into real, usable products
 
----
-
 ## Tech Stack
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind
@@ -35,15 +29,11 @@ What sets me apart is not just coding — I think in terms of product, scalabili
 - **Database:** PostgreSQL, Supabase
 - **Tools:** Git, Docker, Vercel, AWS
 
----
-
 ## Current focus
 
 - Building products with real distribution potential
 - Improving system design and scalability skills
 - Leveraging AI as a development and product tool
-
----
 
 ## Contact
 
@@ -51,4 +41,3 @@ What sets me apart is not just coding — I think in terms of product, scalabili
 - LinkedIn: https://www.linkedin.com/in/caio-barroso-452aa8197/
 - Instagram: https://www.instagram.com/_caiobarroso/
 
----
