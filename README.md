@@ -10,7 +10,7 @@ I specialize in TypeScript, Node.js, React/Next.js, and React Native, with a tra
 
 Throughout my career, I’ve worked on products used by thousands of users daily, improving performance, reliability, and user experience. I’ve also contributed to systems that directly impact business revenue, including CRM platforms and internal tools for large-scale operations.
 
-What sets me apart is not just coding — I think in terms of product, scalability, and execution. I take ownership, move fast, and focus on delivering what actually matters.
+What sets me apart is not just coding, I think in terms of product, scalability, and execution. I take ownership, move fast, and focus on delivering what actually matters.
 
 ## What I do best
 
