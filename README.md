@@ -35,9 +35,3 @@ What sets me apart is not just coding, I think in terms of product, scalability,
 - Improving system design and scalability skills
 - Leveraging AI as a development and product tool
 
-## Contact
-
-- GitHub: https://github.com/caiobarroso
-- LinkedIn: https://www.linkedin.com/in/caio-barroso-452aa8197/
-- Instagram: https://www.instagram.com/_caiobarroso/
-
